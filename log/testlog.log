@@ -1,0 +1,239 @@
+2020-06-02 19:28:20,475 - TC_LoginTest_001 -INFO - User provided
+2020-06-02 19:28:20,635 - TC_LoginTest_001 -INFO - Password provided
+2020-06-02 19:28:26,807 - TC_LoginTest_001 -INFO - Login in Clicked
+2020-06-02 19:30:41,667 - TC_LoginTest_001 -INFO - User provided
+2020-06-02 19:30:41,832 - TC_LoginTest_001 -INFO - Password provided
+2020-06-02 19:30:50,949 - TC_LoginTest_001 -INFO - Login in Clicked
+2020-06-02 19:30:58,014 - TC_LoginTest_001 -INFO - Login Passed
+2020-06-02 20:09:04,849 - TC_LoginTest_001 -INFO - User provided
+2020-06-02 20:09:05,010 - TC_LoginTest_001 -INFO - Password provided
+2020-06-02 20:09:09,333 - TC_LoginTest_001 -INFO - Login in Clicked
+2020-06-02 20:09:16,419 - TC_LoginTest_001 -INFO - Login Passed
+2020-06-02 20:31:17,419 - TC_LoginTest_001 -INFO - User provided
+2020-06-02 20:31:17,577 - TC_LoginTest_001 -INFO - Password provided
+2020-06-02 20:31:28,259 - TC_LoginTest_001 -INFO - Login in Clicked
+2020-06-02 20:31:36,887 - TC_LoginTest_001 -INFO - Login Passed
+2020-06-02 20:31:47,513 - TC_LoginTest_001 -INFO - User provided
+2020-06-02 20:31:47,580 - TC_LoginTest_001 -INFO - Password provided
+2020-06-02 20:31:53,346 - TC_LoginTest_001 -INFO - Login in Clicked
+2020-06-02 20:31:59,897 - TC_LoginTest_001 -INFO - Login Passed
+2020-06-02 20:38:13,855 - TC_LoginTest_001 -INFO - User provided
+2020-06-02 20:38:14,158 - TC_LoginTest_001 -INFO - Password provided
+2020-06-02 20:38:22,099 - TC_LoginTest_001 -INFO - User provided
+2020-06-02 20:38:22,236 - TC_LoginTest_001 -INFO - Password provided
+2020-06-02 20:38:25,047 - TC_LoginTest_001 -INFO - Login in Clicked
+2020-06-02 20:38:27,397 - TC_LoginTest_001 -INFO - Login in Clicked
+2020-06-02 20:38:33,778 - TC_LoginTest_001 -INFO - Login Passed
+2020-06-02 20:38:33,864 - TC_LoginTest_001 -INFO - Login Passed
+2020-06-02 20:39:38,894 - TC_LoginTest_001 -INFO - User provided
+2020-06-02 20:39:39,191 - TC_LoginTest_001 -INFO - Password provided
+2020-06-02 20:39:48,699 - TC_LoginTest_001 -INFO - User provided
+2020-06-02 20:39:48,784 - TC_LoginTest_001 -INFO - Password provided
+2020-06-02 20:39:50,539 - TC_LoginTest_001 -INFO - Login in Clicked
+2020-06-02 20:39:54,358 - TC_LoginTest_001 -INFO - Login in Clicked
+2020-06-02 20:40:00,948 - TC_LoginTest_001 -INFO - Login Passed
+2020-06-02 20:40:01,365 - TC_LoginTest_001 -INFO - Login Passed
+2020-06-02 20:43:59,127 - TC_LoginTest_001 -INFO - User provided
+2020-06-02 20:43:59,172 - TC_LoginTest_001 -INFO - User provided
+2020-06-02 20:43:59,268 - TC_LoginTest_001 -INFO - Password provided
+2020-06-02 20:43:59,291 - TC_LoginTest_001 -INFO - Password provided
+2020-06-02 20:43:59,556 - TC_LoginTest_001 -INFO - Login in Clicked
+2020-06-02 20:43:59,792 - TC_LoginTest_001 -INFO - Login in Clicked
+2020-06-02 20:49:09,799 - TC_LoginTest_001 -INFO - User provided
+2020-06-02 20:49:09,937 - TC_LoginTest_001 -INFO - User provided
+2020-06-02 20:49:10,134 - TC_LoginTest_001 -INFO - Password provided
+2020-06-02 20:49:10,172 - TC_LoginTest_001 -INFO - Password provided
+2020-06-02 20:49:10,270 - TC_LoginTest_001 -INFO - Login in Clicked
+2020-06-02 20:49:10,314 - TC_LoginTest_001 -INFO - Login in Clicked
+2020-06-02 20:49:18,784 - TC_LoginTest_001 -INFO - User provided
+2020-06-02 20:49:18,873 - TC_LoginTest_001 -INFO - Password provided
+2020-06-02 20:49:25,398 - TC_LoginTest_001 -INFO - Login in Clicked
+2020-06-02 20:49:32,499 - TC_LoginTest_001 -INFO - Login Passed
+2020-06-02 21:00:00,435 - TC_LoginTest_001 -INFO - User provided
+2020-06-02 21:00:00,647 - TC_LoginTest_001 -INFO - Password provided
+2020-06-02 21:00:08,654 - TC_LoginTest_001 -INFO - Login in Clicked
+2020-06-02 21:00:15,134 - TC_LoginTest_001 -INFO - Login Passed
+2020-06-03 18:14:24,233 - TC_LoginTest_001 -INFO - User provided
+2020-06-03 18:14:24,597 - TC_LoginTest_001 -INFO - Password provided
+2020-06-03 18:14:30,752 - TC_LoginTest_001 -INFO - Login in Clicked
+2020-06-03 18:14:37,429 - TC_LoginTest_001 -INFO - Login Passed
+2020-06-03 18:15:26,150 - TC_LoginTest_001 -INFO - User provided
+2020-06-03 18:15:26,347 - TC_LoginTest_001 -INFO - Password provided
+2020-06-03 18:15:31,223 - TC_LoginTest_001 -INFO - Login in Clicked
+2020-06-03 20:13:14,352 - TC_LoginTest_001 -INFO - User provided
+2020-06-03 20:13:14,550 - TC_LoginTest_001 -INFO - Password provided
+2020-06-03 20:13:18,084 - TC_LoginTest_001 -INFO - Login in Clicked
+2020-06-03 20:13:30,064 - TC_LoginTest_001 -INFO - User provided
+2020-06-03 20:13:30,194 - TC_LoginTest_001 -INFO - Password provided
+2020-06-03 20:13:30,320 - TC_LoginTest_001 -INFO - Login in Clicked
+2020-06-03 20:13:32,329 - TC_LoginTest_001 -INFO - Login Failed
+2020-06-03 20:13:34,063 - TC_LoginTest_001 -INFO - User provided
+2020-06-03 20:13:34,171 - TC_LoginTest_001 -INFO - Password provided
+2020-06-03 20:13:34,270 - TC_LoginTest_001 -INFO - Login in Clicked
+2020-06-03 20:13:36,287 - TC_LoginTest_001 -INFO - Login Failed
+2020-06-03 20:13:38,040 - TC_LoginTest_001 -INFO - User provided
+2020-06-03 20:13:38,144 - TC_LoginTest_001 -INFO - Password provided
+2020-06-03 20:13:38,234 - TC_LoginTest_001 -INFO - Login in Clicked
+2020-06-03 20:13:40,249 - TC_LoginTest_001 -INFO - Login Failed
+2020-06-03 20:13:41,970 - TC_LoginTest_001 -INFO - User provided
+2020-06-03 20:13:42,066 - TC_LoginTest_001 -INFO - Password provided
+2020-06-03 20:13:42,154 - TC_LoginTest_001 -INFO - Login in Clicked
+2020-06-03 20:13:44,169 - TC_LoginTest_001 -INFO - Login Failed
+2020-06-03 20:14:51,777 - TC_LoginTest_001 -INFO - User provided
+2020-06-03 20:14:51,930 - TC_LoginTest_001 -INFO - Password provided
+2020-06-03 20:14:55,814 - TC_LoginTest_001 -INFO - Login in Clicked
+2020-06-03 20:15:07,823 - TC_LoginTest_001 -INFO - User provided
+2020-06-03 20:15:08,006 - TC_LoginTest_001 -INFO - Password provided
+2020-06-03 20:15:11,752 - TC_LoginTest_001 -INFO - Login in Clicked
+2020-06-03 20:15:16,286 - TC_LoginTest_001 -INFO - User provided
+2020-06-03 20:15:16,425 - TC_LoginTest_001 -INFO - Password provided
+2020-06-03 20:15:16,903 - TC_LoginTest_001 -INFO - Login in Clicked
+2020-06-03 20:15:18,918 - TC_LoginTest_001 -INFO - Login Failed
+2020-06-03 20:15:20,152 - TC_LoginTest_001 -INFO - User provided
+2020-06-03 20:15:20,297 - TC_LoginTest_001 -INFO - Password provided
+2020-06-03 20:15:20,766 - TC_LoginTest_001 -INFO - Login in Clicked
+2020-06-03 20:15:22,784 - TC_LoginTest_001 -INFO - Login Failed
+2020-06-03 20:15:23,977 - TC_LoginTest_001 -INFO - User provided
+2020-06-03 20:15:24,105 - TC_LoginTest_001 -INFO - Password provided
+2020-06-03 20:15:24,589 - TC_LoginTest_001 -INFO - Login in Clicked
+2020-06-03 20:15:26,605 - TC_LoginTest_001 -INFO - Login Failed
+2020-06-03 20:24:16,227 - TC_LoginTest_002 -INFO - User provided
+2020-06-03 20:24:16,406 - TC_LoginTest_002 -INFO - Password provided
+2020-06-03 20:24:21,903 - TC_LoginTest_002 -INFO - Login in Clicked
+2020-06-03 20:24:34,337 - TC_LoginTest_002 -INFO - User provided
+2020-06-03 20:24:34,488 - TC_LoginTest_002 -INFO - Password provided
+2020-06-03 20:24:39,416 - TC_LoginTest_002 -INFO - Login in Clicked
+2020-06-03 20:24:44,489 - TC_LoginTest_002 -INFO - User provided
+2020-06-03 20:24:44,684 - TC_LoginTest_002 -INFO - Password provided
+2020-06-03 20:24:45,804 - TC_LoginTest_002 -INFO - Login in Clicked
+2020-06-03 20:24:47,822 - TC_LoginTest_002 -INFO - Login Failed
+2020-06-03 20:24:49,108 - TC_LoginTest_002 -INFO - User provided
+2020-06-03 20:24:49,250 - TC_LoginTest_002 -INFO - Password provided
+2020-06-03 20:24:49,707 - TC_LoginTest_002 -INFO - Login in Clicked
+2020-06-03 20:24:51,721 - TC_LoginTest_002 -INFO - Login Failed
+2020-06-03 20:24:52,826 - TC_LoginTest_002 -INFO - User provided
+2020-06-03 20:24:52,963 - TC_LoginTest_002 -INFO - Password provided
+2020-06-03 20:24:53,470 - TC_LoginTest_002 -INFO - Login in Clicked
+2020-06-03 20:24:55,478 - TC_LoginTest_002 -INFO - Login Failed
+2020-06-03 21:51:17,915 - TC_LoginTest_002 -INFO - User provided
+2020-06-03 21:51:18,114 - TC_LoginTest_002 -INFO - Password provided
+2020-06-03 21:51:24,986 - TC_LoginTest_002 -INFO - Login in Clicked
+2020-06-03 21:51:37,673 - TC_LoginTest_002 -INFO - User provided
+2020-06-03 21:51:37,937 - TC_LoginTest_002 -INFO - Password provided
+2020-06-03 21:51:43,413 - TC_LoginTest_002 -INFO - Login in Clicked
+2020-06-03 21:51:49,040 - TC_LoginTest_002 -INFO - User provided
+2020-06-03 21:51:49,253 - TC_LoginTest_002 -INFO - Password provided
+2020-06-03 21:51:49,854 - TC_LoginTest_002 -INFO - Login in Clicked
+2020-06-03 21:51:51,877 - TC_LoginTest_002 -INFO - Login Failed
+2020-06-03 21:51:53,515 - TC_LoginTest_002 -INFO - User provided
+2020-06-03 21:51:53,679 - TC_LoginTest_002 -INFO - Password provided
+2020-06-03 21:51:54,165 - TC_LoginTest_002 -INFO - Login in Clicked
+2020-06-03 21:51:56,185 - TC_LoginTest_002 -INFO - Login Failed
+2020-06-03 21:51:58,212 - TC_LoginTest_002 -INFO - User provided
+2020-06-03 21:51:58,371 - TC_LoginTest_002 -INFO - Password provided
+2020-06-03 21:51:58,964 - TC_LoginTest_002 -INFO - Login in Clicked
+2020-06-03 21:52:00,979 - TC_LoginTest_002 -INFO - Login Failed
+2020-06-03 21:52:09,932 - TC_LoginTest_002 -INFO - User name is provided
+2020-06-03 21:52:10,103 - TC_LoginTest_002 -INFO - password is provided
+2020-06-03 21:52:10,229 - TC_LoginTest_002 -INFO - providing customer details....
+2020-06-03 21:53:36,745 - TC_LoginTest_002 -INFO - User provided
+2020-06-03 21:53:36,929 - TC_LoginTest_002 -INFO - Password provided
+2020-06-03 21:53:42,906 - TC_LoginTest_002 -INFO - Login in Clicked
+2020-06-03 21:53:55,507 - TC_LoginTest_002 -INFO - User provided
+2020-06-03 21:53:55,689 - TC_LoginTest_002 -INFO - Password provided
+2020-06-03 21:54:01,312 - TC_LoginTest_002 -INFO - Login in Clicked
+2020-06-03 21:54:05,888 - TC_LoginTest_002 -INFO - User provided
+2020-06-03 21:54:06,029 - TC_LoginTest_002 -INFO - Password provided
+2020-06-03 21:54:06,597 - TC_LoginTest_002 -INFO - Login in Clicked
+2020-06-03 21:54:08,614 - TC_LoginTest_002 -INFO - Login Failed
+2020-06-03 21:54:10,534 - TC_LoginTest_002 -INFO - User provided
+2020-06-03 21:54:10,680 - TC_LoginTest_002 -INFO - Password provided
+2020-06-03 21:54:11,193 - TC_LoginTest_002 -INFO - Login in Clicked
+2020-06-03 21:54:13,210 - TC_LoginTest_002 -INFO - Login Failed
+2020-06-03 21:54:14,551 - TC_LoginTest_002 -INFO - User provided
+2020-06-03 21:54:14,694 - TC_LoginTest_002 -INFO - Password provided
+2020-06-03 21:54:15,218 - TC_LoginTest_002 -INFO - Login in Clicked
+2020-06-03 21:54:17,233 - TC_LoginTest_002 -INFO - Login Failed
+2020-06-03 21:54:25,955 - TC_LoginTest_002 -INFO - User name is provided
+2020-06-03 21:54:26,155 - TC_LoginTest_002 -INFO - password is provided
+2020-06-03 21:54:31,199 - TC_LoginTest_002 -INFO - providing customer details....
+2020-06-03 21:54:38,333 - TC_LoginTest_002 -INFO - validation started....
+2020-06-03 21:54:38,704 - TC_LoginTest_002 -INFO - test case passed....
+2020-06-05 13:03:05,100 - TC_LoginTest_002 -INFO - User provided
+2020-06-05 13:03:05,443 - TC_LoginTest_002 -INFO - Password provided
+2020-06-05 13:03:10,381 - TC_LoginTest_002 -INFO - Login in Clicked
+2020-06-05 13:03:22,523 - TC_LoginTest_002 -INFO - User name is provided
+2020-06-05 13:03:22,809 - TC_LoginTest_002 -INFO - password is provided
+2020-06-05 13:03:28,899 - TC_LoginTest_002 -INFO - providing customer details....
+2020-06-05 13:03:37,920 - TC_LoginTest_002 -INFO - validation started....
+2020-06-05 13:03:38,326 - TC_LoginTest_002 -INFO - test case passed....
+2020-06-05 13:04:47,715 - TC_LoginTest_002 -INFO - User provided
+2020-06-05 13:04:47,889 - TC_LoginTest_002 -INFO - Password provided
+2020-06-05 13:04:53,910 - TC_LoginTest_002 -INFO - Login in Clicked
+2020-06-05 13:05:00,539 - TC_LoginTest_002 -INFO - Login Passed
+2020-06-05 13:05:11,572 - TC_LoginTest_002 -INFO - User name is provided
+2020-06-05 13:05:11,842 - TC_LoginTest_002 -INFO - password is provided
+2020-06-05 13:05:17,738 - TC_LoginTest_002 -INFO - providing customer details....
+2020-06-05 13:05:24,978 - TC_LoginTest_002 -INFO - validation started....
+2020-06-05 13:05:25,407 - TC_LoginTest_002 -INFO - test case passed....
+2020-06-05 13:49:46,354 - TC_LoginTest_002 -INFO - User provided
+2020-06-05 13:49:46,573 - TC_LoginTest_002 -INFO - Password provided
+2020-06-05 13:49:51,876 - TC_LoginTest_002 -INFO - Login in Clicked
+2020-06-05 13:49:58,367 - TC_LoginTest_002 -INFO - Login Passed
+2020-06-05 13:50:09,136 - TC_LoginTest_002 -INFO - User name is provided
+2020-06-05 13:50:09,371 - TC_LoginTest_002 -INFO - password is provided
+2020-06-05 13:50:14,625 - TC_LoginTest_002 -INFO - providing customer details....
+2020-06-05 13:50:23,702 - TC_LoginTest_002 -INFO - validation started....
+2020-06-05 13:50:24,173 - TC_LoginTest_002 -INFO - test case passed....
+2020-06-07 02:35:26,431 - TC_LoginTest_002 -INFO - User provided
+2020-06-07 02:35:26,675 - TC_LoginTest_002 -INFO - Password provided
+2020-06-07 02:35:32,420 - TC_LoginTest_002 -INFO - Login in Clicked
+2020-06-07 02:35:38,751 - TC_LoginTest_002 -INFO - Login Passed
+2020-06-07 02:35:46,797 - TC_LoginTest_002 -INFO - User name is provided
+2020-06-07 02:35:46,943 - TC_LoginTest_002 -INFO - password is provided
+2020-06-07 02:35:50,755 - TC_LoginTest_002 -INFO - providing customer details....
+2020-06-07 02:35:57,874 - TC_LoginTest_002 -INFO - validation started....
+2020-06-07 02:35:58,262 - TC_LoginTest_002 -INFO - test case passed....
+2020-06-07 16:57:54,062 - TC_LoginTest_002 -INFO - User provided
+2020-06-07 16:57:54,270 - TC_LoginTest_002 -INFO - Password provided
+2020-06-07 16:57:59,054 - TC_LoginTest_002 -INFO - Login in Clicked
+2020-06-07 16:58:05,683 - TC_LoginTest_002 -INFO - Login Passed
+2020-06-07 16:58:14,274 - TC_LoginTest_002 -INFO - User name is provided
+2020-06-07 16:58:14,440 - TC_LoginTest_002 -INFO - password is provided
+2020-06-07 16:58:24,002 - TC_LoginTest_002 -INFO - providing customer details....
+2020-06-07 16:58:33,361 - TC_LoginTest_002 -INFO - validation started....
+2020-06-07 16:58:33,621 - TC_LoginTest_002 -INFO - test case passed....
+2020-06-07 17:20:02,966 - TC_LoginTest_002 -INFO - User provided
+2020-06-07 17:20:03,122 - TC_LoginTest_002 -INFO - Password provided
+2020-06-07 17:20:07,807 - TC_LoginTest_002 -INFO - Login in Clicked
+2020-06-07 17:20:14,836 - TC_LoginTest_002 -INFO - Login Passed
+2020-06-07 17:20:22,544 - TC_LoginTest_002 -INFO - User name is provided
+2020-06-07 17:20:22,735 - TC_LoginTest_002 -INFO - password is provided
+2020-06-07 17:20:27,231 - TC_LoginTest_002 -INFO - providing customer details....
+2020-06-07 17:20:36,299 - TC_LoginTest_002 -INFO - validation started....
+2020-06-07 17:20:36,649 - TC_LoginTest_002 -INFO - test case passed....
+2020-06-07 17:31:38,306 - TC_LoginTest_002 -INFO - User provided
+2020-06-07 17:31:38,588 - TC_LoginTest_002 -INFO - Password provided
+2020-06-07 17:31:43,588 - TC_LoginTest_002 -INFO - Login in Clicked
+2020-06-07 17:31:50,084 - TC_LoginTest_002 -INFO - Login Passed
+2020-06-07 17:31:57,889 - TC_LoginTest_002 -INFO - User name is provided
+2020-06-07 17:31:58,090 - TC_LoginTest_002 -INFO - password is provided
+2020-06-07 17:32:04,465 - TC_LoginTest_002 -INFO - providing customer details....
+2020-06-07 17:32:10,447 - TC_LoginTest_002 -INFO - validation started....
+2020-06-07 17:32:11,103 - TC_LoginTest_002 -INFO - test case passed....
+2020-06-07 18:44:38,707 - TC_LoginTest_002 -INFO - User provided
+2020-06-07 18:44:51,665 - TC_LoginTest_002 -INFO - Password provided
+2020-06-07 18:45:11,461 - TC_LoginTest_002 -INFO - Login in Clicked
+2020-06-07 18:45:27,489 - TC_LoginTest_002 -INFO - Login Passed
+2020-06-07 18:45:43,290 - TC_LoginTest_002 -INFO - User name is provided
+2020-06-07 18:45:43,520 - TC_LoginTest_002 -INFO - password is provided
+2020-06-07 18:45:47,675 - TC_LoginTest_002 -INFO - providing customer details....
+2020-06-07 18:45:57,689 - TC_LoginTest_002 -INFO - validation started....
+2020-06-07 18:45:58,026 - TC_LoginTest_002 -INFO - test case passed....
+2020-06-07 19:17:01,326 - TC_LoginTest_002 -INFO - User provided
+2020-06-07 19:17:01,529 - TC_LoginTest_002 -INFO - Password provided
+2020-06-07 19:17:06,823 - TC_LoginTest_002 -INFO - Login in Clicked
+2020-06-07 19:17:13,360 - TC_LoginTest_002 -INFO - Login Passed
+2020-06-07 19:17:48,233 - TC_LoginTest_002 -INFO - User name is provided
+2020-06-07 19:18:01,703 - TC_LoginTest_002 -INFO - password is provided
+2020-06-07 19:18:24,133 - TC_LoginTest_002 -INFO - providing customer details....

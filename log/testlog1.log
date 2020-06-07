@@ -1,0 +1,263 @@
+2020-06-02 18:53:11,808 [main] INFO eCommerce - User provided
+2020-06-02 18:53:11,942 [main] INFO eCommerce - Password provided
+2020-06-02 18:53:12,040 [main] INFO eCommerce - Login in Clicked
+2020-06-02 19:00:10,705 [main] INFO eCommerce - User provided
+2020-06-02 19:00:10,843 [main] INFO eCommerce - Password provided
+2020-06-02 19:00:10,954 [main] INFO eCommerce - Login in Clicked
+2020-06-02 19:05:33,687 [main] INFO eCommerce - User provided
+2020-06-02 19:05:33,881 [main] INFO eCommerce - Password provided
+2020-06-02 19:05:40,541 [main] INFO eCommerce - Login in Clicked
+2020-06-02 19:07:24,203 [main] INFO eCommerce - User provided
+2020-06-02 19:07:24,361 [main] INFO eCommerce - Password provided
+2020-06-02 19:07:29,034 [main] INFO eCommerce - Login in Clicked
+2020-06-02 19:13:26,772 [main] INFO eCommerce - User provided
+2020-06-02 19:13:26,942 [main] INFO eCommerce - Password provided
+2020-06-02 19:13:31,550 [main] INFO eCommerce - Login in Clicked
+2020-06-02 19:13:38,203 [main] INFO eCommerce - Login Passed
+2020-06-02 19:23:00,454 [main] INFO TC_LoginTest_001 - User provided
+2020-06-02 19:23:00,660 [main] INFO TC_LoginTest_001 - Password provided
+2020-06-02 19:23:03,823 [main] INFO TC_LoginTest_001 - Login in Clicked
+2020-06-02 19:23:10,967 [main] INFO TC_LoginTest_001 - Login Passed
+2020-06-02 19:27:21,631 [main] INFO TC_LoginTest_001 - User provided
+2020-06-02 19:27:21,783 [main] INFO TC_LoginTest_001 - Password provided
+2020-06-02 19:27:27,174 [main] INFO TC_LoginTest_001 - Login in Clicked
+2020-06-02 19:27:33,610 [main] INFO TC_LoginTest_001 - Login Passed
+2020-06-02 19:28:20,475 [main] INFO TC_LoginTest_001 - User provided
+2020-06-02 19:28:20,635 [main] INFO TC_LoginTest_001 - Password provided
+2020-06-02 19:28:26,807 [main] INFO TC_LoginTest_001 - Login in Clicked
+2020-06-02 19:30:41,667 [main] INFO TC_LoginTest_001 - User provided
+2020-06-02 19:30:41,832 [main] INFO TC_LoginTest_001 - Password provided
+2020-06-02 19:30:50,949 [main] INFO TC_LoginTest_001 - Login in Clicked
+2020-06-02 19:30:58,014 [main] INFO TC_LoginTest_001 - Login Passed
+2020-06-02 20:09:04,849 [main] INFO TC_LoginTest_001 - User provided
+2020-06-02 20:09:05,010 [main] INFO TC_LoginTest_001 - Password provided
+2020-06-02 20:09:09,333 [main] INFO TC_LoginTest_001 - Login in Clicked
+2020-06-02 20:09:16,419 [main] INFO TC_LoginTest_001 - Login Passed
+2020-06-02 20:31:17,419 [TestNG] INFO TC_LoginTest_001 - User provided
+2020-06-02 20:31:17,577 [TestNG] INFO TC_LoginTest_001 - Password provided
+2020-06-02 20:31:28,259 [TestNG] INFO TC_LoginTest_001 - Login in Clicked
+2020-06-02 20:31:36,887 [TestNG] INFO TC_LoginTest_001 - Login Passed
+2020-06-02 20:31:47,513 [TestNG] INFO TC_LoginTest_001 - User provided
+2020-06-02 20:31:47,580 [TestNG] INFO TC_LoginTest_001 - Password provided
+2020-06-02 20:31:53,346 [TestNG] INFO TC_LoginTest_001 - Login in Clicked
+2020-06-02 20:31:59,897 [TestNG] INFO TC_LoginTest_001 - Login Passed
+2020-06-02 20:38:13,855 [TestNG] INFO TC_LoginTest_001 - User provided
+2020-06-02 20:38:14,158 [TestNG] INFO TC_LoginTest_001 - Password provided
+2020-06-02 20:38:22,099 [TestNG] INFO TC_LoginTest_001 - User provided
+2020-06-02 20:38:22,236 [TestNG] INFO TC_LoginTest_001 - Password provided
+2020-06-02 20:38:25,047 [TestNG] INFO TC_LoginTest_001 - Login in Clicked
+2020-06-02 20:38:27,397 [TestNG] INFO TC_LoginTest_001 - Login in Clicked
+2020-06-02 20:38:33,778 [TestNG] INFO TC_LoginTest_001 - Login Passed
+2020-06-02 20:38:33,864 [TestNG] INFO TC_LoginTest_001 - Login Passed
+2020-06-02 20:39:38,894 [TestNG] INFO TC_LoginTest_001 - User provided
+2020-06-02 20:39:39,191 [TestNG] INFO TC_LoginTest_001 - Password provided
+2020-06-02 20:39:48,699 [TestNG] INFO TC_LoginTest_001 - User provided
+2020-06-02 20:39:48,784 [TestNG] INFO TC_LoginTest_001 - Password provided
+2020-06-02 20:39:50,539 [TestNG] INFO TC_LoginTest_001 - Login in Clicked
+2020-06-02 20:39:54,358 [TestNG] INFO TC_LoginTest_001 - Login in Clicked
+2020-06-02 20:40:00,948 [TestNG] INFO TC_LoginTest_001 - Login Passed
+2020-06-02 20:40:01,365 [TestNG] INFO TC_LoginTest_001 - Login Passed
+2020-06-02 20:43:59,127 [TestNG] INFO TC_LoginTest_001 - User provided
+2020-06-02 20:43:59,172 [TestNG] INFO TC_LoginTest_001 - User provided
+2020-06-02 20:43:59,268 [TestNG] INFO TC_LoginTest_001 - Password provided
+2020-06-02 20:43:59,291 [TestNG] INFO TC_LoginTest_001 - Password provided
+2020-06-02 20:43:59,556 [TestNG] INFO TC_LoginTest_001 - Login in Clicked
+2020-06-02 20:43:59,792 [TestNG] INFO TC_LoginTest_001 - Login in Clicked
+2020-06-02 20:49:09,799 [TestNG] INFO TC_LoginTest_001 - User provided
+2020-06-02 20:49:09,937 [TestNG] INFO TC_LoginTest_001 - User provided
+2020-06-02 20:49:10,134 [TestNG] INFO TC_LoginTest_001 - Password provided
+2020-06-02 20:49:10,172 [TestNG] INFO TC_LoginTest_001 - Password provided
+2020-06-02 20:49:10,270 [TestNG] INFO TC_LoginTest_001 - Login in Clicked
+2020-06-02 20:49:10,314 [TestNG] INFO TC_LoginTest_001 - Login in Clicked
+2020-06-02 20:49:18,784 [TestNG] INFO TC_LoginTest_001 - User provided
+2020-06-02 20:49:18,873 [TestNG] INFO TC_LoginTest_001 - Password provided
+2020-06-02 20:49:25,398 [TestNG] INFO TC_LoginTest_001 - Login in Clicked
+2020-06-02 20:49:32,499 [TestNG] INFO TC_LoginTest_001 - Login Passed
+2020-06-02 21:00:00,435 [TestNG] INFO TC_LoginTest_001 - User provided
+2020-06-02 21:00:00,647 [TestNG] INFO TC_LoginTest_001 - Password provided
+2020-06-02 21:00:08,654 [TestNG] INFO TC_LoginTest_001 - Login in Clicked
+2020-06-02 21:00:15,134 [TestNG] INFO TC_LoginTest_001 - Login Passed
+2020-06-03 18:14:24,233 [TestNG] INFO TC_LoginTest_001 - User provided
+2020-06-03 18:14:24,597 [TestNG] INFO TC_LoginTest_001 - Password provided
+2020-06-03 18:14:30,752 [TestNG] INFO TC_LoginTest_001 - Login in Clicked
+2020-06-03 18:14:37,429 [TestNG] INFO TC_LoginTest_001 - Login Passed
+2020-06-03 18:15:26,150 [TestNG] INFO TC_LoginTest_001 - User provided
+2020-06-03 18:15:26,347 [TestNG] INFO TC_LoginTest_001 - Password provided
+2020-06-03 18:15:31,223 [TestNG] INFO TC_LoginTest_001 - Login in Clicked
+2020-06-03 20:13:14,352 [TestNG] INFO TC_LoginTest_001 - User provided
+2020-06-03 20:13:14,550 [TestNG] INFO TC_LoginTest_001 - Password provided
+2020-06-03 20:13:18,084 [TestNG] INFO TC_LoginTest_001 - Login in Clicked
+2020-06-03 20:13:30,064 [TestNG] INFO TC_LoginTest_001 - User provided
+2020-06-03 20:13:30,194 [TestNG] INFO TC_LoginTest_001 - Password provided
+2020-06-03 20:13:30,320 [TestNG] INFO TC_LoginTest_001 - Login in Clicked
+2020-06-03 20:13:32,329 [TestNG] INFO TC_LoginTest_001 - Login Failed
+2020-06-03 20:13:34,063 [TestNG] INFO TC_LoginTest_001 - User provided
+2020-06-03 20:13:34,171 [TestNG] INFO TC_LoginTest_001 - Password provided
+2020-06-03 20:13:34,270 [TestNG] INFO TC_LoginTest_001 - Login in Clicked
+2020-06-03 20:13:36,287 [TestNG] INFO TC_LoginTest_001 - Login Failed
+2020-06-03 20:13:38,040 [TestNG] INFO TC_LoginTest_001 - User provided
+2020-06-03 20:13:38,144 [TestNG] INFO TC_LoginTest_001 - Password provided
+2020-06-03 20:13:38,234 [TestNG] INFO TC_LoginTest_001 - Login in Clicked
+2020-06-03 20:13:40,249 [TestNG] INFO TC_LoginTest_001 - Login Failed
+2020-06-03 20:13:41,970 [TestNG] INFO TC_LoginTest_001 - User provided
+2020-06-03 20:13:42,066 [TestNG] INFO TC_LoginTest_001 - Password provided
+2020-06-03 20:13:42,154 [TestNG] INFO TC_LoginTest_001 - Login in Clicked
+2020-06-03 20:13:44,169 [TestNG] INFO TC_LoginTest_001 - Login Failed
+2020-06-03 20:14:51,777 [TestNG] INFO TC_LoginTest_001 - User provided
+2020-06-03 20:14:51,930 [TestNG] INFO TC_LoginTest_001 - Password provided
+2020-06-03 20:14:55,814 [TestNG] INFO TC_LoginTest_001 - Login in Clicked
+2020-06-03 20:15:07,823 [TestNG] INFO TC_LoginTest_001 - User provided
+2020-06-03 20:15:08,006 [TestNG] INFO TC_LoginTest_001 - Password provided
+2020-06-03 20:15:11,752 [TestNG] INFO TC_LoginTest_001 - Login in Clicked
+2020-06-03 20:15:16,286 [TestNG] INFO TC_LoginTest_001 - User provided
+2020-06-03 20:15:16,425 [TestNG] INFO TC_LoginTest_001 - Password provided
+2020-06-03 20:15:16,903 [TestNG] INFO TC_LoginTest_001 - Login in Clicked
+2020-06-03 20:15:18,918 [TestNG] INFO TC_LoginTest_001 - Login Failed
+2020-06-03 20:15:20,152 [TestNG] INFO TC_LoginTest_001 - User provided
+2020-06-03 20:15:20,297 [TestNG] INFO TC_LoginTest_001 - Password provided
+2020-06-03 20:15:20,766 [TestNG] INFO TC_LoginTest_001 - Login in Clicked
+2020-06-03 20:15:22,784 [TestNG] INFO TC_LoginTest_001 - Login Failed
+2020-06-03 20:15:23,977 [TestNG] INFO TC_LoginTest_001 - User provided
+2020-06-03 20:15:24,105 [TestNG] INFO TC_LoginTest_001 - Password provided
+2020-06-03 20:15:24,589 [TestNG] INFO TC_LoginTest_001 - Login in Clicked
+2020-06-03 20:15:26,605 [TestNG] INFO TC_LoginTest_001 - Login Failed
+2020-06-03 20:24:16,227 [TestNG] INFO TC_LoginTest_002 - User provided
+2020-06-03 20:24:16,406 [TestNG] INFO TC_LoginTest_002 - Password provided
+2020-06-03 20:24:21,903 [TestNG] INFO TC_LoginTest_002 - Login in Clicked
+2020-06-03 20:24:34,337 [TestNG] INFO TC_LoginTest_002 - User provided
+2020-06-03 20:24:34,488 [TestNG] INFO TC_LoginTest_002 - Password provided
+2020-06-03 20:24:39,416 [TestNG] INFO TC_LoginTest_002 - Login in Clicked
+2020-06-03 20:24:44,489 [TestNG] INFO TC_LoginTest_002 - User provided
+2020-06-03 20:24:44,684 [TestNG] INFO TC_LoginTest_002 - Password provided
+2020-06-03 20:24:45,804 [TestNG] INFO TC_LoginTest_002 - Login in Clicked
+2020-06-03 20:24:47,822 [TestNG] INFO TC_LoginTest_002 - Login Failed
+2020-06-03 20:24:49,108 [TestNG] INFO TC_LoginTest_002 - User provided
+2020-06-03 20:24:49,250 [TestNG] INFO TC_LoginTest_002 - Password provided
+2020-06-03 20:24:49,707 [TestNG] INFO TC_LoginTest_002 - Login in Clicked
+2020-06-03 20:24:51,721 [TestNG] INFO TC_LoginTest_002 - Login Failed
+2020-06-03 20:24:52,826 [TestNG] INFO TC_LoginTest_002 - User provided
+2020-06-03 20:24:52,963 [TestNG] INFO TC_LoginTest_002 - Password provided
+2020-06-03 20:24:53,470 [TestNG] INFO TC_LoginTest_002 - Login in Clicked
+2020-06-03 20:24:55,478 [TestNG] INFO TC_LoginTest_002 - Login Failed
+2020-06-03 21:51:17,915 [TestNG] INFO TC_LoginTest_002 - User provided
+2020-06-03 21:51:18,114 [TestNG] INFO TC_LoginTest_002 - Password provided
+2020-06-03 21:51:24,986 [TestNG] INFO TC_LoginTest_002 - Login in Clicked
+2020-06-03 21:51:37,673 [TestNG] INFO TC_LoginTest_002 - User provided
+2020-06-03 21:51:37,937 [TestNG] INFO TC_LoginTest_002 - Password provided
+2020-06-03 21:51:43,413 [TestNG] INFO TC_LoginTest_002 - Login in Clicked
+2020-06-03 21:51:49,040 [TestNG] INFO TC_LoginTest_002 - User provided
+2020-06-03 21:51:49,253 [TestNG] INFO TC_LoginTest_002 - Password provided
+2020-06-03 21:51:49,854 [TestNG] INFO TC_LoginTest_002 - Login in Clicked
+2020-06-03 21:51:51,877 [TestNG] INFO TC_LoginTest_002 - Login Failed
+2020-06-03 21:51:53,515 [TestNG] INFO TC_LoginTest_002 - User provided
+2020-06-03 21:51:53,679 [TestNG] INFO TC_LoginTest_002 - Password provided
+2020-06-03 21:51:54,165 [TestNG] INFO TC_LoginTest_002 - Login in Clicked
+2020-06-03 21:51:56,185 [TestNG] INFO TC_LoginTest_002 - Login Failed
+2020-06-03 21:51:58,212 [TestNG] INFO TC_LoginTest_002 - User provided
+2020-06-03 21:51:58,371 [TestNG] INFO TC_LoginTest_002 - Password provided
+2020-06-03 21:51:58,964 [TestNG] INFO TC_LoginTest_002 - Login in Clicked
+2020-06-03 21:52:00,979 [TestNG] INFO TC_LoginTest_002 - Login Failed
+2020-06-03 21:52:09,932 [TestNG] INFO TC_LoginTest_002 - User name is provided
+2020-06-03 21:52:10,103 [TestNG] INFO TC_LoginTest_002 - password is provided
+2020-06-03 21:52:10,229 [TestNG] INFO TC_LoginTest_002 - providing customer details....
+2020-06-03 21:53:36,745 [TestNG] INFO TC_LoginTest_002 - User provided
+2020-06-03 21:53:36,929 [TestNG] INFO TC_LoginTest_002 - Password provided
+2020-06-03 21:53:42,906 [TestNG] INFO TC_LoginTest_002 - Login in Clicked
+2020-06-03 21:53:55,507 [TestNG] INFO TC_LoginTest_002 - User provided
+2020-06-03 21:53:55,689 [TestNG] INFO TC_LoginTest_002 - Password provided
+2020-06-03 21:54:01,312 [TestNG] INFO TC_LoginTest_002 - Login in Clicked
+2020-06-03 21:54:05,888 [TestNG] INFO TC_LoginTest_002 - User provided
+2020-06-03 21:54:06,029 [TestNG] INFO TC_LoginTest_002 - Password provided
+2020-06-03 21:54:06,597 [TestNG] INFO TC_LoginTest_002 - Login in Clicked
+2020-06-03 21:54:08,614 [TestNG] INFO TC_LoginTest_002 - Login Failed
+2020-06-03 21:54:10,534 [TestNG] INFO TC_LoginTest_002 - User provided
+2020-06-03 21:54:10,680 [TestNG] INFO TC_LoginTest_002 - Password provided
+2020-06-03 21:54:11,193 [TestNG] INFO TC_LoginTest_002 - Login in Clicked
+2020-06-03 21:54:13,210 [TestNG] INFO TC_LoginTest_002 - Login Failed
+2020-06-03 21:54:14,551 [TestNG] INFO TC_LoginTest_002 - User provided
+2020-06-03 21:54:14,694 [TestNG] INFO TC_LoginTest_002 - Password provided
+2020-06-03 21:54:15,218 [TestNG] INFO TC_LoginTest_002 - Login in Clicked
+2020-06-03 21:54:17,233 [TestNG] INFO TC_LoginTest_002 - Login Failed
+2020-06-03 21:54:25,955 [TestNG] INFO TC_LoginTest_002 - User name is provided
+2020-06-03 21:54:26,155 [TestNG] INFO TC_LoginTest_002 - password is provided
+2020-06-03 21:54:31,199 [TestNG] INFO TC_LoginTest_002 - providing customer details....
+2020-06-03 21:54:38,333 [TestNG] INFO TC_LoginTest_002 - validation started....
+2020-06-03 21:54:38,704 [TestNG] INFO TC_LoginTest_002 - test case passed....
+2020-06-05 13:03:05,100 [TestNG] INFO TC_LoginTest_002 - User provided
+2020-06-05 13:03:05,443 [TestNG] INFO TC_LoginTest_002 - Password provided
+2020-06-05 13:03:10,381 [TestNG] INFO TC_LoginTest_002 - Login in Clicked
+2020-06-05 13:03:22,523 [TestNG] INFO TC_LoginTest_002 - User name is provided
+2020-06-05 13:03:22,809 [TestNG] INFO TC_LoginTest_002 - password is provided
+2020-06-05 13:03:28,899 [TestNG] INFO TC_LoginTest_002 - providing customer details....
+2020-06-05 13:03:37,920 [TestNG] INFO TC_LoginTest_002 - validation started....
+2020-06-05 13:03:38,326 [TestNG] INFO TC_LoginTest_002 - test case passed....
+2020-06-05 13:04:47,715 [TestNG] INFO TC_LoginTest_002 - User provided
+2020-06-05 13:04:47,889 [TestNG] INFO TC_LoginTest_002 - Password provided
+2020-06-05 13:04:53,910 [TestNG] INFO TC_LoginTest_002 - Login in Clicked
+2020-06-05 13:05:00,539 [TestNG] INFO TC_LoginTest_002 - Login Passed
+2020-06-05 13:05:11,572 [TestNG] INFO TC_LoginTest_002 - User name is provided
+2020-06-05 13:05:11,842 [TestNG] INFO TC_LoginTest_002 - password is provided
+2020-06-05 13:05:17,738 [TestNG] INFO TC_LoginTest_002 - providing customer details....
+2020-06-05 13:05:24,978 [TestNG] INFO TC_LoginTest_002 - validation started....
+2020-06-05 13:05:25,407 [TestNG] INFO TC_LoginTest_002 - test case passed....
+2020-06-05 13:49:46,354 [TestNG-tests-1] INFO TC_LoginTest_002 - User provided
+2020-06-05 13:49:46,573 [TestNG-tests-1] INFO TC_LoginTest_002 - Password provided
+2020-06-05 13:49:51,876 [TestNG-tests-1] INFO TC_LoginTest_002 - Login in Clicked
+2020-06-05 13:49:58,367 [TestNG-tests-1] INFO TC_LoginTest_002 - Login Passed
+2020-06-05 13:50:09,136 [TestNG-tests-1] INFO TC_LoginTest_002 - User name is provided
+2020-06-05 13:50:09,371 [TestNG-tests-1] INFO TC_LoginTest_002 - password is provided
+2020-06-05 13:50:14,625 [TestNG-tests-1] INFO TC_LoginTest_002 - providing customer details....
+2020-06-05 13:50:23,702 [TestNG-tests-1] INFO TC_LoginTest_002 - validation started....
+2020-06-05 13:50:24,173 [TestNG-tests-1] INFO TC_LoginTest_002 - test case passed....
+2020-06-07 02:35:26,431 [TestNG-tests-1] INFO TC_LoginTest_002 - User provided
+2020-06-07 02:35:26,675 [TestNG-tests-1] INFO TC_LoginTest_002 - Password provided
+2020-06-07 02:35:32,420 [TestNG-tests-1] INFO TC_LoginTest_002 - Login in Clicked
+2020-06-07 02:35:38,751 [TestNG-tests-1] INFO TC_LoginTest_002 - Login Passed
+2020-06-07 02:35:46,797 [TestNG-tests-1] INFO TC_LoginTest_002 - User name is provided
+2020-06-07 02:35:46,943 [TestNG-tests-1] INFO TC_LoginTest_002 - password is provided
+2020-06-07 02:35:50,755 [TestNG-tests-1] INFO TC_LoginTest_002 - providing customer details....
+2020-06-07 02:35:57,874 [TestNG-tests-1] INFO TC_LoginTest_002 - validation started....
+2020-06-07 02:35:58,262 [TestNG-tests-1] INFO TC_LoginTest_002 - test case passed....
+2020-06-07 16:57:54,062 [TestNG-tests-1] INFO TC_LoginTest_002 - User provided
+2020-06-07 16:57:54,270 [TestNG-tests-1] INFO TC_LoginTest_002 - Password provided
+2020-06-07 16:57:59,054 [TestNG-tests-1] INFO TC_LoginTest_002 - Login in Clicked
+2020-06-07 16:58:05,683 [TestNG-tests-1] INFO TC_LoginTest_002 - Login Passed
+2020-06-07 16:58:14,274 [TestNG-tests-1] INFO TC_LoginTest_002 - User name is provided
+2020-06-07 16:58:14,440 [TestNG-tests-1] INFO TC_LoginTest_002 - password is provided
+2020-06-07 16:58:24,002 [TestNG-tests-1] INFO TC_LoginTest_002 - providing customer details....
+2020-06-07 16:58:33,361 [TestNG-tests-1] INFO TC_LoginTest_002 - validation started....
+2020-06-07 16:58:33,621 [TestNG-tests-1] INFO TC_LoginTest_002 - test case passed....
+2020-06-07 17:20:02,966 [TestNG-tests-1] INFO TC_LoginTest_002 - User provided
+2020-06-07 17:20:03,122 [TestNG-tests-1] INFO TC_LoginTest_002 - Password provided
+2020-06-07 17:20:07,807 [TestNG-tests-1] INFO TC_LoginTest_002 - Login in Clicked
+2020-06-07 17:20:14,836 [TestNG-tests-1] INFO TC_LoginTest_002 - Login Passed
+2020-06-07 17:20:22,544 [TestNG-tests-1] INFO TC_LoginTest_002 - User name is provided
+2020-06-07 17:20:22,735 [TestNG-tests-1] INFO TC_LoginTest_002 - password is provided
+2020-06-07 17:20:27,231 [TestNG-tests-1] INFO TC_LoginTest_002 - providing customer details....
+2020-06-07 17:20:36,299 [TestNG-tests-1] INFO TC_LoginTest_002 - validation started....
+2020-06-07 17:20:36,649 [TestNG-tests-1] INFO TC_LoginTest_002 - test case passed....
+2020-06-07 17:31:38,306 [TestNG-tests-1] INFO TC_LoginTest_002 - User provided
+2020-06-07 17:31:38,588 [TestNG-tests-1] INFO TC_LoginTest_002 - Password provided
+2020-06-07 17:31:43,588 [TestNG-tests-1] INFO TC_LoginTest_002 - Login in Clicked
+2020-06-07 17:31:50,084 [TestNG-tests-1] INFO TC_LoginTest_002 - Login Passed
+2020-06-07 17:31:57,889 [TestNG-tests-1] INFO TC_LoginTest_002 - User name is provided
+2020-06-07 17:31:58,090 [TestNG-tests-1] INFO TC_LoginTest_002 - password is provided
+2020-06-07 17:32:04,465 [TestNG-tests-1] INFO TC_LoginTest_002 - providing customer details....
+2020-06-07 17:32:10,447 [TestNG-tests-1] INFO TC_LoginTest_002 - validation started....
+2020-06-07 17:32:11,103 [TestNG-tests-1] INFO TC_LoginTest_002 - test case passed....
+2020-06-07 18:44:38,707 [TestNG-tests-1] INFO TC_LoginTest_002 - User provided
+2020-06-07 18:44:51,665 [TestNG-tests-1] INFO TC_LoginTest_002 - Password provided
+2020-06-07 18:45:11,461 [TestNG-tests-1] INFO TC_LoginTest_002 - Login in Clicked
+2020-06-07 18:45:27,489 [TestNG-tests-1] INFO TC_LoginTest_002 - Login Passed
+2020-06-07 18:45:43,290 [TestNG-tests-1] INFO TC_LoginTest_002 - User name is provided
+2020-06-07 18:45:43,520 [TestNG-tests-1] INFO TC_LoginTest_002 - password is provided
+2020-06-07 18:45:47,675 [TestNG-tests-1] INFO TC_LoginTest_002 - providing customer details....
+2020-06-07 18:45:57,689 [TestNG-tests-1] INFO TC_LoginTest_002 - validation started....
+2020-06-07 18:45:58,026 [TestNG-tests-1] INFO TC_LoginTest_002 - test case passed....
+2020-06-07 19:17:01,326 [TestNG-tests-1] INFO TC_LoginTest_002 - User provided
+2020-06-07 19:17:01,529 [TestNG-tests-1] INFO TC_LoginTest_002 - Password provided
+2020-06-07 19:17:06,823 [TestNG-tests-1] INFO TC_LoginTest_002 - Login in Clicked
+2020-06-07 19:17:13,360 [TestNG-tests-1] INFO TC_LoginTest_002 - Login Passed
+2020-06-07 19:17:48,233 [TestNG-tests-1] INFO TC_LoginTest_002 - User name is provided
+2020-06-07 19:18:01,703 [TestNG-tests-1] INFO TC_LoginTest_002 - password is provided
+2020-06-07 19:18:24,133 [TestNG-tests-1] INFO TC_LoginTest_002 - providing customer details....
